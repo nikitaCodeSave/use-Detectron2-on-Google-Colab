@@ -2,7 +2,8 @@
 
 #https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/
 
-#Включи GPU среду
+#Включи GPU среду 
+#ON GPU
 
 # Install dependencies
 !python -m pip install pyyaml
